@@ -1,8 +1,8 @@
 ================================================================================
-                   SASerL - A SASL library for Erlang
+         Saserl - A SASL authentication mechanism library for Erlang
 ================================================================================
 
-SASerL is a SASL library for erlang which aims at providing a wide range of SASL
+Saserl is a SASL library for erlang which aims at providing a wide range of SASL
 authentication methods. The idea is to have something implemented in Erlang so
 that external libraries don't have to be used.
 
